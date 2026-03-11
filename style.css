@@ -28,7 +28,7 @@ nav {
 .logo {
   font-size: 1.5rem;
   font-weight: bold;
-  color: #a855f7;
+  color: #f97316;
 }
 
 nav ul {
@@ -45,11 +45,11 @@ nav ul a {
 }
 
 nav ul a:hover {
-  color: #a855f7;
+  color: #f97316;
 }
 
 nav ul a.active {
-  color: #a855f7;
+  color: #f97316;
   font-weight: bold;
 }
 
@@ -70,7 +70,7 @@ nav ul a.active {
 }
 
 #hero h1 span {
-  color: #a855f7;
+  color: #f97316;
 }
 
 #hero p {
@@ -81,7 +81,7 @@ nav ul a.active {
 }
 
 .btn {
-  background-color: #a855f7;
+  background-color: #f97316;
   color: #ffffff;
   padding: 12px 30px;
   border-radius: 30px;
@@ -91,7 +91,7 @@ nav ul a.active {
 }
 
 .btn:hover {
-  background-color: #9333ea;
+  background-color: #f97316;
 }
 
 /* SECTIONS */
@@ -110,7 +110,7 @@ section:not(#hero).visible {
 section h2 {
   font-size: 2rem;
   margin-bottom: 40px;
-  color: #a855f7;
+  color: #f97316;
   text-align: center;
 }
 
@@ -134,7 +134,7 @@ section h2 {
 
 .skill-card {
   background-color: #1a1a1a;
-  border: 1px solid #a855f7;
+  border: 1px solid #f97316;
   color: #ffffff;
   padding: 20px 40px;
   border-radius: 10px;
@@ -144,7 +144,7 @@ section h2 {
 
 .skill-card:hover {
   transform: translateY(-5px);
-  background-color: #a855f7;
+  background-color: #f97316;
 }
 
 /* PROJECTS */
@@ -166,7 +166,7 @@ section h2 {
 
 .project-card:hover {
   transform: translateY(-8px);
-  border-color: #a855f7;
+  border-color: #f97316;
 }
 
 .project-card h3 {
@@ -183,7 +183,7 @@ section h2 {
 }
 
 .project-card a {
-  color: #a855f7;
+  color: #f97316;
   text-decoration: none;
   font-size: 0.9rem;
 }
@@ -204,7 +204,7 @@ section h2 {
 }
 
 #contact a {
-  color: #a855f7;
+  color: #f97316;
   text-decoration: none;
 }
 
