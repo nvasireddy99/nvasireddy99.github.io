@@ -1,8 +1,10 @@
 // TYPING EFFECT
 const roles = [
-  "Frontend Developer 💻",
-  "Web Developer 🌐",
-  "React Enthusiast ⚛️"
+  "Senior Software Engineer 💻",
+  "Java Software Developer 🌐",
+  "System Analyst ⚙️"
+  "Based in Toronto 🇨🇦",
+  "Looking for Opportunities 🚀"
 ];
 
 let roleIndex = 0;
