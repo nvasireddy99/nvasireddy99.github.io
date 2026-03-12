@@ -91,7 +91,7 @@ nav ul a.active {
 }
 
 .btn:hover {
-  background-color: #f97316;
+  background-color: #ea580c;
 }
 
 /* SECTIONS */
@@ -210,4 +210,41 @@ section h2 {
 
 #contact a:hover {
   text-decoration: underline;
+}
+/* MOBILE FRIENDLY */
+@media (max-width: 768px) {
+
+  nav {
+    padding: 15px 20px;
+  }
+
+  nav ul {
+    gap: 15px;
+  }
+
+  #hero h1 {
+    font-size: 2rem;
+  }
+
+  #hero p {
+    font-size: 1rem;
+  }
+
+  section:not(#hero) {
+    padding: 60px 20px;
+  }
+
+  .skill-card {
+    padding: 15px 25px;
+  }
+
+  .project-card {
+    width: 100%;
+  }
+
+  .projects-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+
 }
