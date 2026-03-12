@@ -94,6 +94,37 @@ nav ul a.active {
   background-color: #ea580c;
 }
 
+.btn {
+  background-color: #f97316;
+  color: #ffffff;
+  padding: 12px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 1rem;
+  transition: background-color 0.3s;
+}
+
+.btn:hover {
+  background-color: #ea580c;
+}
+
+/* CV DOWNLOAD BUTTON */
+.btn-outline {
+  border: 2px solid #f97316;
+  color: #f97316;
+  padding: 12px 30px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 1rem;
+  margin-left: 15px;
+  transition: all 0.3s;
+}
+
+.btn-outline:hover {
+  background-color: #f97316;
+  color: #ffffff;
+}
+
 /* PROFILE PHOTO */
 .profile-photo {
   width: 150px;
@@ -273,4 +304,17 @@ nav ul a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+
+/* FOOTER */
+footer {
+  text-align: center;
+  padding: 30px;
+  border-top: 1px solid #1a1a1a;
+  color: #aaaaaa;
+  font-size: 0.9rem;
+}
+
+footer span {
+  color: #f97316;
 }
