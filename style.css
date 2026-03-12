@@ -252,7 +252,7 @@ nav ul a {
 
 }
 #contact {
-  min-height: 400px;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
