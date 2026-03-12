@@ -219,9 +219,12 @@ section h2 {
   }
 
   nav ul {
-    gap: 15px;
-  }
+  gap: 10px;
+}
 
+nav ul a {
+  font-size: 0.8rem;
+}
   #hero h1 {
     font-size: 2rem;
   }
