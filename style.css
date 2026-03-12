@@ -251,3 +251,9 @@ nav ul a {
   }
 
 }
+#contact {
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
